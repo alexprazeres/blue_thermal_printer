@@ -1,3 +1,5 @@
+#Fork para alterar alinhamento na quebra de texto no metodo printLeftRight
+
 # blue_thermal_printer
 
 
